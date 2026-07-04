@@ -1,25 +1,32 @@
-# Hi, I'm Noor Fatima
+# Noor Fatima
 
-Computer Engineering student at NUST (SEECS) in Islamabad. I like building things
-that mix hardware and code, mostly embedded systems and circuits, and I am getting
-more into machine learning and edge AI.
+Computer Engineering student at NUST (SEECS), Islamabad.
 
-## About me
+## About
 
-- Studying Computer Engineering at NUST (SEECS), expected 2029
-- Interested in embedded systems, digital logic design, and TinyML / edge AI
-- Comfortable with Arduino, C/C++, and Python, plus a range of circuit design tools
+I'm a Computer Engineering student at NUST (SEECS), graduating in 2029. I like
+working on both sides of a project, the circuit and the code that runs on it.
+Right now I'm focused on the basics: programming, digital logic, and circuit
+design. My plan is to move into embedded systems and microcontroller work, and
+later into edge AI and TinyML.
+
+- Studying: B.E. Computer Engineering, NUST (SEECS)
+- Focus: programming, digital logic design, circuits
+- Interested in: embedded systems, microcontrollers, TinyML
+
+## Skills
+
+- Languages: C, C++, Python
+- Hardware: Arduino, Verilog, microcontrollers
+- Simulation and EDA tools: MATLAB, Multisim, Proteus, OrCAD, PSpice
+- Other: Tableau
 
 ## Projects
 
-- [Air Defense Tracking System](https://github.com/nfatima25seecs/air-defense-tracking-system) - Arduino radar-style tracker that sweeps an ultrasonic sensor on a servo and locks onto a target
-- [Obstacle Avoiding Car](https://github.com/nfatima25seecs/obstacle-avoiding-car) - Autonomous car that avoids obstacles using ultrasonic sensing
+- [Air Defense Tracking System](https://github.com/nfatima25seecs/air-defense-tracking-system) - Arduino tracker that sweeps an ultrasonic sensor on a servo, like a small radar, and points at a target when it gets close.
+- [Obstacle Avoiding Car](https://github.com/nfatima25seecs/obstacle-avoiding-car) - Car that drives on its own and avoids obstacles using an ultrasonic sensor on a scanning servo.
 
-## Tools and technologies
-
-C, C++, Python, MATLAB, Verilog, Arduino, Multisim, Proteus, OrCAD, PSpice, Tableau
-
-## Reach me
+## Contact
 
 - Email: nfatima.bce25seecs@seecs.edu.pk
 - LinkedIn: https://www.linkedin.com/in/noor-fatima-0727643a8/
