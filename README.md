@@ -4,15 +4,7 @@ Computer Engineering student at NUST (SEECS), Islamabad.
 
 ## About
 
-I'm a Computer Engineering student at NUST (SEECS), graduating in 2029. The
-direction I'm working toward is machine learning: training models, and building
-the data pipelines that feed them and the high-performance C++ systems they run
-on. Right now I'm building up my Python and C++ and working through machine
-learning on my own, and I want my next projects to be ML-focused.
-
-- Studying: B.E. Computer Engineering, NUST (SEECS)
-- Working toward: machine learning, data pipelines, C++ systems and engines
-- Currently learning: machine learning, Python for data, C++
+I am a Computer Engineering student at NUST (SEECS), graduating in 2029. I am drawn to the space between hardware and software: designing circuits, understanding digital logic, and learning how to make hardware respond to code. I am currently building my foundations in software logic and circuit design, with the goal of moving into embedded systems, microcontrollers, and edge AI applications like TinyML.
 
 ## Skills
 
